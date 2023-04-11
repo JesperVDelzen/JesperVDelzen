@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JesperVDelzen, i just got my degree in "Expert IT system and Devices"
-- 👀 I’m interested in networking/servers/
-- 🌱 I’m currently learning Cybersecurity and Networking
+- 👋 Hi, I’m Jesper, I'm 18 years old and i just completed my study "Expert System And Devices"
+- 👀 I’m interested in Networking, Windows servers and programming
+- 🌱 I’m currently learning CyberSecurity and simple programming
 - 📫 You can reach me trought Discord: Jespeer#7234
 - ✨Feel free to ask any questions
 

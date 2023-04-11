@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jesper, I'm 18 years old and i just completed my study "Expert System And Devices"
+- 👋 Hi, I’m Jesper, I'm 18 years old and i just completed my study "Expert IT System And Devices"
 - 👀 I’m interested in Networking, Windows servers and programming
 - 🌱 I’m currently learning CyberSecurity and simple programming
 - 📫 You can reach me trought Discord: Jespeer#7234
